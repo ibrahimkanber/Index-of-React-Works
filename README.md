@@ -18,7 +18,6 @@
             </tr>
         </thead>
         <tbody>
-            
             <tr>
                 <td>Project Management System</td>
                 <td><a href="https://github.com/ibrahimkanber/REACT-PROJECT-3-PROJECT-MANAGEMENT-SYSTEM">Repo details..</a></td>
@@ -33,11 +32,9 @@
                 <td>Shopping Site/Stock Tracking System</td>
                 <td><a href="https://github.com/ibrahimkanber/REACT-PROJECT-2-with-REDUX--stock-tracking-system-">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/65809527/100654917-d3445780-334a-11eb-968d-bf0e40986e8b.gif" alt="gif"  style="height:500px"></td>
-            </tr>
-            
+            </tr> 
         </tbody>
     </table>
-    
 </body>
 </html>
 

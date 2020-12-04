@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Document</title>
 </head>
 <body>
     <table>
@@ -16,7 +16,8 @@
                 <td>Repo Link</td>
                 <td>Overwiew</td>
             </tr>
-      
+        </thead>
+        <tbody>
             <tr>
                 <td>Project Management System</td>
                 <td><a href="https://github.com/ibrahimkanber/REACT-PROJECT-3-PROJECT-MANAGEMENT-SYSTEM">Repo details..</a></td>

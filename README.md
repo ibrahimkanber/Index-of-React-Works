@@ -1,6 +1,6 @@
 # Index-of-React-Works
 
-    <table>
+       <table>
         <thead>
             <tr>
                 <td>Name</td>

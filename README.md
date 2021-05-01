@@ -19,7 +19,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>ClarusShop</td>
+                <td>ClarusShop (MERN STACK)</td>
                 <td><a href="https://github.com/ibrahimkanber/e-Commerce">Repo details..</a></td>
                 <td><a href="https://clarusshop.herokuapp.com/">Live Demo</a></td>
             </tr>
